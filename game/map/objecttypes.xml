@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="TrampolineActivate" color="#a0a0a4"/>
+ <objecttype name="ButtonBottom" color="#a0a0a4"/>
+ <objecttype name="Exit" color="#a0a0a4"/>
+ <objecttype name="ExtruderBottom" color="#a0a0a4"/>
+ <objecttype name="ExtruderTop" color="#a0a0a4"/>
+ <objecttype name="MachineGun" color="#a0a0a4"/>
+ <objecttype name="MachineGunPrepare" color="#a0a0a4"/>
+ <objecttype name="Manufacturer" color="#a0a0a4"/>
+ <objecttype name="Mirror" color="#a0a0a4"/>
+ <objecttype name="MirrorRedHot" color="#a0a0a4"/>
+ <objecttype name="MovableBox" color="#a0a0a4"/>
+ <objecttype name="ObjectCreatorPhase1" color="#ffff00"/>
+ <objecttype name="ObjectCreatorPhase2" color="#ffff00"/>
+ <objecttype name="ObjectCreatorPhase3" color="#ffff00"/>
+ <objecttype name="ObjectEnemyRobot1" color="#aa0000"/>
+ <objecttype name="ObjectEnemyRobot1Prepare" color="#ffffff"/>
+ <objecttype name="ObjectEnemyRobot2" color="#aa0000"/>
+ <objecttype name="ObjectHero" color="#00ff00"/>
+ <objecttype name="SpaceSlime" color="#a0a0a4">
+  <property name="Discriprion" type="string" default="Космическая слизь. В процессе бомбардировки планет астероидами, на планету были занесены неизвестные бактерии, мутации которых привели к образованию новых организмов."/>
+  <property name="Speed" type="int" default="200"/>
+ </objecttype>
+ <objecttype name="Spikes" color="#a0a0a4"/>
+ <objecttype name="TrafficLights1" color="#a0a0a4"/>
+ <objecttype name="TrafficLights2" color="#a0a0a4"/>
+ <objecttype name="TrafficLights3" color="#a0a0a4"/>
+ <objecttype name="Trampoline" color="#a0a0a4"/>
+</objecttypes>
